@@ -26,7 +26,7 @@ header {
 #section {
     color: #777;
     background: #ebebeb;
-    width: 500px;
+    width: 495px;
     height: 200px;
     float: left;
     margin: 10px 10px 20px 0;
@@ -35,7 +35,7 @@ header {
 #article {
     color: #ebebeb;
     background: #777;
-    width: 98%;
+    width: auto;
     height: 150px;
     margin: 5% 5px 5px 5px;
     clear: both;
@@ -59,7 +59,7 @@ header {
 
 aside {
     background: #ebebeb;
-    width: 440px;
+    width: 445px;
     height: 200px;
     float: right;
     margin-top: 10px;
